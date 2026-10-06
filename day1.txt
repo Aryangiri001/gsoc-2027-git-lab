@@ -1,0 +1,8 @@
+GSoC 2027 - Day 1
+
+Today I started my GSoC 2027 preparation.
+
+My goals:
+- Learn open-source development
+- Make real contributions
+- Become a GSoC 2027 contributor
