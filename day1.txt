@@ -6,3 +6,11 @@ My goals:
 - Learn open-source development
 - Make real contributions
 - Become a GSoC 2027 contributor
+
+
+Git Branching Practice
+
+Today I learned:
+- How to create a branch
+- Why developers use feature branches
+- How branches support collaborative development
